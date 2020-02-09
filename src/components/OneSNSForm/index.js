@@ -51,7 +51,7 @@ return(
           <input key={socialmedium} 
             // onClick={props.handleCheckChieldElement} 
             type="checkbox" 
-            checked={false} 
+            // checked={false} 
             value= {websites[socialmedium].name}
             
            />
