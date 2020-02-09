@@ -19,6 +19,10 @@ form {
     color: red;
   }
 
+  ul {
+    list-style: none;
+  }
+
   /* Style inputs, select elements and textareas */
 input[type=text], select, textarea{
     width: 100%;

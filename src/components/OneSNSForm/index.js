@@ -47,16 +47,18 @@ return(
   {Object.keys(websites).map(socialmedium => {
           // window.open(websites[socialmedium].url);
         return (
+          <ul>
           <li key={socialmedium}>
+            
           <input key={socialmedium} 
             // onClick={props.handleCheckChieldElement} 
             type="checkbox" 
             // checked={false} 
             value= {websites[socialmedium].name}
             
-           />
+           />{websites[socialmedium].name}
            
-          </li>
+          </li></ul>
         );
       })
       }
