@@ -1,12 +1,13 @@
-import React,{useState} from 'react';
+import {useState} from 'react';
 // import PropTypes from 'prop-types';
 import './OneSNSShare.css';
 
-const OneSNSShare = (callback) => {
+const OneSNSShare = (initialValues,callback) => {
   const [inputs, setInputs] = useState({});
   const handleSubmit = (event) => {
     if (event) {
       event.preventDefault();
+       callback();
     }
   }
   const handleInputChange = (event) => {
