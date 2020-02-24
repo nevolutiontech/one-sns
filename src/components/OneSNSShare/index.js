@@ -4,6 +4,7 @@ import './OneSNSShare.css';
 
 const OneSNSShare = (initialValues,callback) => {
   const [inputs, setInputs] = useState({});
+  
   const handleSubmit = (event) => {
     if (event) {
       event.preventDefault();

@@ -1,15 +1,21 @@
 import React from 'react';
-// import './App.css';
-// import logo from './logo.svg';
+ import './App.css';
+
  import OneSNSForm from './components/OneSNSForm';
-// import OneSNSShare from './components/OneSNSShare';
-//  import "./styles/tailwind.css";
+
+
+const Footer = () => (
+  <footer className="footer">
+    <p>@N.evolutiontech</p>
+  </footer>
+);
 
 function App() {
   return (
-    <div className="App">
+    <div>
+    <h1>Share your content to all social media with one click</h1>
     <OneSNSForm/>
-    {/* <OneSNSShare/> */}
+    <Footer/> 
     </div>
   );
 }
