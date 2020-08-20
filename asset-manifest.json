@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nevolutiontech/one-sns/static/css/main.3e6c01ac.chunk.css",
+    "main.js": "/nevolutiontech/one-sns/static/js/main.0d20bf2e.chunk.js",
+    "main.js.map": "/nevolutiontech/one-sns/static/js/main.0d20bf2e.chunk.js.map",
+    "runtime-main.js": "/nevolutiontech/one-sns/static/js/runtime-main.51b58a34.js",
+    "runtime-main.js.map": "/nevolutiontech/one-sns/static/js/runtime-main.51b58a34.js.map",
+    "static/js/2.c04c11d9.chunk.js": "/nevolutiontech/one-sns/static/js/2.c04c11d9.chunk.js",
+    "static/js/2.c04c11d9.chunk.js.map": "/nevolutiontech/one-sns/static/js/2.c04c11d9.chunk.js.map",
+    "index.html": "/nevolutiontech/one-sns/index.html",
+    "precache-manifest.e2a71932d4f8d2fff8bf77b21810da55.js": "/nevolutiontech/one-sns/precache-manifest.e2a71932d4f8d2fff8bf77b21810da55.js",
+    "service-worker.js": "/nevolutiontech/one-sns/service-worker.js",
+    "static/css/main.3e6c01ac.chunk.css.map": "/nevolutiontech/one-sns/static/css/main.3e6c01ac.chunk.css.map",
+    "static/js/2.c04c11d9.chunk.js.LICENSE.txt": "/nevolutiontech/one-sns/static/js/2.c04c11d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51b58a34.js",
+    "static/js/2.c04c11d9.chunk.js",
+    "static/css/main.3e6c01ac.chunk.css",
+    "static/js/main.0d20bf2e.chunk.js"
+  ]
+}
