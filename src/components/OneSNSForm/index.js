@@ -29,6 +29,11 @@ const OneSNSForm = () => {
     url:
       "https://www.linkedin.com/",
       name : "linkedin"
+    },
+    {
+    url:
+      "https://www.pinterest.com/",
+      name : "pinterest"
     }
   ];
   const GetSocialMediaSiteLinks_WithShareLinks = (args) => {
